@@ -35,8 +35,8 @@ Each module represents a step forward in my journey toward becoming an **ML Engi
 | Module | Topic | Status |
 |--------|-------|--------|
 | Module 01 | ML Engineer Training — Module 1 | ✅ Completed |
-| Module 02 | ML Engineer Training — Module 1 | ✅ Completed |
-| Module 03 | Coming Soon | ⏳ |
+| Module 02 | ML Engineer Training — Module 2 | ✅ Completed |
+| Module 03 | ML Engineer Training — Module 3 | ✅ Completed |
 | Module 04 | Coming Soon | ⏳ |
 | Module 05 | Coming Soon | ⏳ |
 
